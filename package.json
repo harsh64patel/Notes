@@ -17,4 +17,6 @@
     "start": "vite",
     "dev": "vite",
     "build": "vite build",
-    "pre
+    "preview": "vite preview"
+  }
+}
